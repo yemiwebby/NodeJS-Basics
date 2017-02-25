@@ -1,2 +1,2 @@
 # NodeJS-Basics
-The important basics to get started with NodeJs
+Getting started with NodeJs (the basics)
